@@ -1,0 +1,19 @@
+{
+    "name": "emmy-anie/hngx13-stage-0",
+    "description": "Backend Wizards Stage 0 Task (HNGX13) — A simple PHP API that returns profile info with a dynamic cat fact.",
+    "autoload": {
+        "psr-4": {
+            "emmy-anie\\Hngx13Stage0\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "EmmyAnieDev",
+            "email": "emaduilzjr1@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^8.0",
+        "guzzlehttp/guzzle": "^7.10"
+    }
+}
